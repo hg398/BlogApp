@@ -8,12 +8,13 @@ Get the project on your local machine and run app.js to start it locally.
 Install NodeJS and MongoDB locally or run code on a cloud like AWS C9.
 
 # Built With
+Back-end:
+- NodeJS 
+- Express : Framework
+- MongoDB : Database
+
 Front-end:
 - HTML
 - CSS
 - Semantic UI
 
-Back-end:
-- NodeJS 
-- Express : Framework
-- MongoDB : Database
