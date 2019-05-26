@@ -10,8 +10,8 @@ Install NodeJS and MongoDB locally or run code on a cloud like AWS C9.
 # Built With
 Back-end:
 - NodeJS 
-- Express : Framework
-- MongoDB : Database
+- Framework: Express
+- Database: MongoDB
 
 Front-end:
 - HTML
